@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing technologies.
 - 🌱 I’m currently learning python,os.
 - 💞️ I'm ready to do internships
-- 📫 How to reach me:uadrikavya1@gmail.com
+- 📫 How to reach me:udarikavya1@gmail.com
 
 <!---
 Kavyaudari/Kavyaudari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
